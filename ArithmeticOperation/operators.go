@@ -1,4 +1,4 @@
-package arithmeticoperation
+package main
 
 import "fmt"
 
